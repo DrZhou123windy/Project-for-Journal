@@ -25,6 +25,7 @@ Usage
 7) The relationship between cefp and scalable potential validation parameters can be found in the "p and xx m=xx" folder of the project folder "Project for Journal", and corresponding validation functions have been written for each pair of relationships.
 8) The verification procedure for the relationship between a and m can be found in project folder "a and m", before operation, please ensure that the file path can be recognized by Matlab. The data of a and m have been synchronized and uploaded. Please review them in the project folder.
 9) Considering that some machine equipment's Matlab versions are early versions and do not include the algorithms required for this study, they have been specially written for learning and communication purposes, see folder "Precompiled code (for MATLAB early versions (2008b and earlier))".Please debug before use to ensure that it can run normally on the device.
+10) quick_test.m is the quick testing file attached to this project. All required variable information has been written into the m file.Usage：Open Matlab and keyboard enter quick_test.
 
 Who do I talk to?
 Dr.Zhou, Northwest University
