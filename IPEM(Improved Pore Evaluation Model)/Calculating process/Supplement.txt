@@ -1,0 +1,13 @@
+evaluation_for_real.m:
+
+Calculation based on real measurement values of reservoirs
+
+
+evaluation_for_m.m:
+
+Calculation of theoretical measurement values based on different m values of reservoirs
+
+
+evaluation_for_reverse.m:
+
+The calculation model based on the solution corrected by mud content has improved accuracy
